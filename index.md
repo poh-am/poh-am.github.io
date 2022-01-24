@@ -1,8 +1,8 @@
 ## ANDRII POKH
 
 ### PERSONAL PROFILE
-I am web-developer with four years of experience in front-end
-and back-end developing. I like to know and realize new things,
+I am web-developer with five+ years of experience in front-end
+and back-end development. I like to know and realize new things,
 features in my subject area (in such languages: PHP, JavaScript, SQL).
 
 
