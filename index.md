@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## ANDRII POKH
 
-You can use the [editor on GitHub](https://github.com/poh-am/poh-am.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### PERSONAL PROFILE
+I am web-developer with four years of experience in front-end
+and back-end developing. I like to know and realize new things,
+features in my subject area (in such languages: PHP, JavaScript, SQL).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### WORK EXPERIENCE
+ Jun 2014 - Jul 2014\
+ It-Sites - HTML/CSS trainee
+\
+\
+ Oct 2014 - Feb 2018\
+ RexSoft (team size: 50 people) - Back-End Developer - worked mostly with Laravel, MODx, Wordpress, ReactJS
+\
+\
+ Mar 2018 - Oct 2021\
+ Massmedia Group (team size: 100 people) - Back-End Developer - worked mostly with Laravel, VueJS, Symfony  
+\
+ 2015 - 2020\
+ Freelance - Laravel, Wordpress, MODx Evo Developer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TECHNICAL SKILLS
+ - Languages: PHP (Symfony, Laravel, WordPress), SQL, JavaScript
+ - Fron-end Development: HTML, CSS, VueJS, ReactJS, jQuery, JSON 
+ - Operating systems: Linux, Windows
+ - Server software: Nginx, Apache, MySQL, PostgreSQL
+ - Version control: Git
+ - Tools: JIRA, PHPStorm, Docker, Webpack, Sublime Text editor
 
-```markdown
-Syntax highlighted code block
+### LANGUAGES (scale by [ILR Proficiency Levels](https://www.icls.edu/foreign-language-programs/ilr-proficiency-levels/))
+ - English — professional working proficiency
+ - Ukrainan — native or bilingual proficiency
+ - Russian — native or bilingual proficiency
+ - Polish — elementary proficiency
 
-# Header 1
-## Header 2
-### Header 3
+### EDUCATION & COURCES
+ Khmelnitsky National University
+ Master, Economic Cybernetics
+\
+ freeCodeCamp certificate: [certificate](http://bit.ly/2Vhl1Zj)
 
-- Bulleted
-- List
+### SUMMARY
+ Web-developer with 5 years of experience.
+ Strong knowledge in back-end development (PHP, Laravel framework), 
+ understanding of front-end build system, understanding of the most 
+ popular design patterns (MVC, Singleton), integrating different APIs 
+ (Paypal, Yelp, Google Maps, social networks auth).
+ Confident in Relational DBMS.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poh-am/poh-am.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### USEFUL LINKS
+- LinkedIn:       [link](https://www.linkedin.com/in/andrii-pokh-604791b2)
+- GitHub:         [link](https://github.com/poh-am)
+- Github cv page: [link](https://poh-am.github.io)
